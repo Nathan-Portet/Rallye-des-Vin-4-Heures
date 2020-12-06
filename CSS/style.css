@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url("Components/container.css");
+@import url("Components/banner.css");
+@import url("Components/button.css");
+@import url("Components/card.css");
+@import url("Components/list.css");
+
+body {
+  font-family: 'Roboto', serif;
+  font-size: 22px;
+  margin: 0px;
+  color: rgb(30,30,30,30);
+}
+h1, h2, h3 {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+	font-size: 30px;
+	color: #7A2121;
+	font-weight: bolder;
+}
+
+a {
+  text-decoration: none;
+}
